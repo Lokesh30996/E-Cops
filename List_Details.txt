@@ -1,0 +1,32 @@
+	//Login
+	Button b2,b3,b4;
+	//AdminLogin
+	Label la7,la8;
+	TextField tf5,tf6;
+	Button b9,b10;
+	//Admin
+	//PoliceLogin
+	Label la4,la5,la6;
+	TextField tf3,tf4;
+	Choice c1;
+	Button b7,b8,b13;
+	//Police
+	//PoliceRegistration
+	Label la16,la17,la18,la19,la20,la21,la22,la23;
+	TextField tf12,tf13,tf14,tf15,tf16,tf17;
+	Button b14,b15;
+	TextArea ta2;
+	Choice c3;
+	//PoliceR
+	//UserLogin
+	Button b5,b6,b20;
+	TextField tf1,tf2;
+	Label la2,la3;
+	//User
+	//UserRegistration
+	Label la9,la10,la11,la12,la13,la14,la15;
+	TextField tf7,tf8,tf9,tf10,tf11;
+	Choice c2;
+	TextArea ta1;
+	Button b11,b12;
+	//UserR
